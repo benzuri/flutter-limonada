@@ -1,0 +1,21 @@
+{
+	"continueGame":		"Sell lemonade",
+	"salePrice":		"Sale price",
+	"get":				"Get",
+	"buy":				"Buy",
+	"make":				"Make",
+	"money":			"Money",
+	"upgrade":			"Upgrade",
+	"advertising":		"Advertising",
+	"lemons":			"Lemon",
+	"sugar":			"Sugar",
+	"ice":				"Ice",
+	"water":			"Water",
+	"lemonade":			"Lemonade",
+	"more":				"More",
+	"newGame":			"New game",
+	"newGameBody":		"Would you like to start new game?",
+	"cancel":			"Cancel",
+	"acept":			"Acept",
+	"back":				"Back"
+}

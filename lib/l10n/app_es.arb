@@ -1,0 +1,21 @@
+{
+	"continueGame":		"Vender limonada",
+	"salePrice":		"Precio de venta",
+	"get":				"Conseguir",
+	"buy":				"Comprar",
+	"make":				"Hacer",
+	"money":			"Dinero",
+	"upgrade":			"Mejoras",
+	"advertising":		"Publicidad",
+	"lemons":			"Limones",
+	"sugar":			"Azucar",
+	"ice":				"Hielo",
+	"water":			"Agua",
+	"lemonade":			"Limonada",
+	"more":				"Más",
+	"newGame":			"Nuevo juego",
+	"newGameBody":		"¿Iniciar juego desde el principio?",
+	"cancel":			"Cancelar",
+	"acept":			"Aceptar",
+	"back":				"Volver"
+}
